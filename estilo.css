@@ -1,0 +1,42 @@
+body {
+  background-color: #e9d7bc; }
+
+h1 {
+  text-align: center; }
+
+h1:hover {
+  background-color: #E4D3BA; }
+
+h2 {
+  text-align: center; }
+
+h2:hover {
+  background-color: #E4D3BA; }
+
+h3 {
+  text-align: center; }
+
+h3:hover {
+  background-color: #E4D3BA; }
+
+h4 {
+  text-align: center; }
+
+h4:hover {
+  background-color: #E4D3BA; }
+
+p {
+  text-align: justify;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.75;
+  margin-left: 20px;
+  margin-right: 20px; }
+
+.card {
+  margin-left: 20px; }
+
+nav:hover {
+  background-color: #E4D3BA; }
+
+footer {
+  text-align: center; }

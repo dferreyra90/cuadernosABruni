@@ -1,0 +1,55 @@
+
+@import "_variables";
+
+body {
+    background-color: $primary-color;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1:hover {
+    background-color: $secundary-color
+}
+
+h2 {text-align: center;}
+
+h2:hover {
+    background-color: $secundary-color;
+}
+
+h3 {
+    text-align: center;
+}
+
+h3:hover {
+    background-color: $secundary-color;
+}
+
+h4{
+    text-align: center;
+}
+
+h4:hover {
+    background-color: $secundary-color;
+}
+
+p {text-align: justify;
+    font-family: $font-stack;
+    font-size: $h-4-font-size;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card{
+    margin-left: 20px;
+}
+
+nav:hover {
+background-color: $secundary-color;
+}
+
+footer {
+    text-align: center;
+}
